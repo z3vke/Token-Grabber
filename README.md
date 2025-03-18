@@ -38,3 +38,6 @@ OPTIONS
 • Captures Webcam Image.
 • Sends All Data Through Discord Webhooks/Telegram Bot.
 (...more)
+
+
+![image](https://github.com/user-attachments/assets/3ce640a3-dd71-4ddb-8cdf-a9c14caa1d02)
